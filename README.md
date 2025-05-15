@@ -61,7 +61,7 @@ This **Travel Analysis Dashboard** visualizes:
 
 ## 📁 Files Included
 
-- : A snapshot of the complete Power BI dashboard.
+- https://github.com/pamwarsneha/pamwarsneha/blob/main/Travel%20Analysis.png: A snapshot of the complete Power BI dashboard.
 
 ## 🧑‍💼 Use Case
 
